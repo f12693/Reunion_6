@@ -1,0 +1,7 @@
+apple,		125
+egg,		200
+book,		560
+paper,		50
+computer,	5000
+water,
+juice,          120
