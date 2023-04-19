@@ -12,7 +12,7 @@ namespace P03B_050
 		static void Main(string[] args)
 		{
 			/// 050 設計一個類別來表示一個學生，擁有姓名、年齡、成績三個屬性，以及計算是否及格的方法。
-			/// 
+			/// 050
 			Student K7 = new Student("K7",26);
 			K7.AddStudentScored("國文", 79);
 			K7.AddStudentScored("英文", 11);
