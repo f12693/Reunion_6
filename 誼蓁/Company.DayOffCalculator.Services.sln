@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Company.DayOffCalculator.Services", "Company.DayOffCalculator.Services\Company.DayOffCalculator.Services.csproj", "{38C506C9-947B-460F-8EFF-03BE31F93E0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOffCalculator", "DatOffCalculator\DayOffCalculator.csproj", "{532F8561-F7C1-4D87-82B4-1FDF82821293}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Company.DayOff.Test", "Company.DayOff.Test\Company.DayOff.Test.csproj", "{5C75C8A8-5C3C-45C6-A31D-C5C89D6BF148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38C506C9-947B-460F-8EFF-03BE31F93E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C506C9-947B-460F-8EFF-03BE31F93E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C506C9-947B-460F-8EFF-03BE31F93E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C506C9-947B-460F-8EFF-03BE31F93E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532F8561-F7C1-4D87-82B4-1FDF82821293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532F8561-F7C1-4D87-82B4-1FDF82821293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532F8561-F7C1-4D87-82B4-1FDF82821293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532F8561-F7C1-4D87-82B4-1FDF82821293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C75C8A8-5C3C-45C6-A31D-C5C89D6BF148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C75C8A8-5C3C-45C6-A31D-C5C89D6BF148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C75C8A8-5C3C-45C6-A31D-C5C89D6BF148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C75C8A8-5C3C-45C6-A31D-C5C89D6BF148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BB0A43E-21FE-492A-A143-D92EDE03EAB1}
+	EndGlobalSection
+EndGlobal
