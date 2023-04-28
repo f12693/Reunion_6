@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03B_110 寫日期時間範
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_0070 計算前n個費氏數列的和(新版)", "P01_0070 計算前n個費氏數列的和(新版)\P01_0070 計算前n個費氏數列的和(新版).csproj", "{34131790-6D98-4D7F-840E-B716A407CF01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03B_120 寫一個學生類別", "P03B_120 寫一個學生類別\P03B_120 寫一個學生類別.csproj", "{8917C17B-19AF-4DFF-8347-9114B7BC1C78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03B_120 寫一個學生類別", "P03B_120 寫一個學生類別\P03B_120 寫一個學生類別.csproj", "{8917C17B-19AF-4DFF-8347-9114B7BC1C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03B_050 寫學生類別(老師版本)", "P03B_050 寫學生類別(老師版本)\P03B_050 寫學生類別(老師版本).csproj", "{3A6A80A5-2C31-46C3-933D-FD3B865A66E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{8917C17B-19AF-4DFF-8347-9114B7BC1C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8917C17B-19AF-4DFF-8347-9114B7BC1C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8917C17B-19AF-4DFF-8347-9114B7BC1C78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6A80A5-2C31-46C3-933D-FD3B865A66E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6A80A5-2C31-46C3-933D-FD3B865A66E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6A80A5-2C31-46C3-933D-FD3B865A66E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6A80A5-2C31-46C3-933D-FD3B865A66E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

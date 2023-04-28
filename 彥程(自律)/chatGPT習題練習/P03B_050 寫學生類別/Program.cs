@@ -1,5 +1,8 @@
 ﻿namespace P03B_050_寫學生類別
 {
+	/// <summary>
+	/// 設計一個類別來表示一個學生，擁有姓名、年齡、成績三個屬性，以及計算是否及格的方法。
+	/// </summary>
 	internal class Program
 	{
 		static void Main(string[] args)

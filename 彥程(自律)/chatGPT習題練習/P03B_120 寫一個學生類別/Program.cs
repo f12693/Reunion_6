@@ -1,5 +1,8 @@
 ﻿namespace P03B_120_寫一個學生類別
 {
+	/// <summary>
+	/// 設計一個類別來表示一個學生，擁有姓名、生日、成績、聯絡人等屬性，以及計算年齡的方法，並且支援按姓名排序和按成績排序的方法。
+	/// </summary>
 	internal class Program
 	{
 		static void Main(string[] args)
